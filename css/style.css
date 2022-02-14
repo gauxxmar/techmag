@@ -15,8 +15,6 @@ body {
   font-weight: 400px;
 }
 
-/* header */
-
 header {
   border: 2px solid white;
   margin: 20px 0px;
@@ -43,8 +41,6 @@ header h1 em {
   line-height: 22px;
 }
 
-/* main */
-
 main {
   margin: 20px 0px 0px;
 }
@@ -58,11 +54,13 @@ main {
   font-family: 'montserrat', sans-serif;
   font-size: 16px;
   font-weight: 800;
+  color: #0d6a4a;
 }
 
 .presentation p {
   margin: 20px 0px 31px;
   line-height: 22px;
+  color: #0d6a4a;
 }
 
 article {
@@ -117,6 +115,7 @@ button {
   border-style: none;
   height: 23px;
   width: 90px;
+  background-color: #444444;
 }
 
 button a {
@@ -127,8 +126,6 @@ button a {
    font-weight: 800;
    font-family: 'montserrat', sans-serif;
 }
-
-/* footer */
 
 footer {
   border: 2px solid #2afca6;
@@ -142,10 +139,6 @@ footer p {
   font-size: 10px;
   margin-top: 15px;
 }
-
-/* article */
-
-
 
 .article-figcaption {
   height: 20px;
