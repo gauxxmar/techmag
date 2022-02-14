@@ -24,3 +24,21 @@ header {
   padding: 0px 30px;
 }
 
+header h1 {
+  font-family: 'montserrat', sans-serif;
+  color: white;
+  font-weight: 800px;
+  margin-top: 50px;
+  font-size: 26px;
+}
+
+header h1 em {
+  font-weight: 100px;
+  color: #2afca6;
+}
+
+.sous-titre {
+  color: white;
+  margin: 20px 0px 50px;
+  line-height: 22px;
+}
