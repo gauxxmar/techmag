@@ -127,3 +127,29 @@ button a {
    font-weight: 800;
    font-family: 'montserrat', sans-serif;
 }
+/* footer */
+
+footer {
+  border: 2px solid #2afca6;
+  height: 45px;
+  margin-top: 20px;
+}
+
+footer p {
+  color: white;
+  text-align: center;
+  font-size: 10px;
+  margin-top: 15px;
+}
+
+/* article */
+
+
+
+.article-figcaption {
+  height: 20px;
+}
+
+.article-page {
+  padding-top: 30px;
+}
