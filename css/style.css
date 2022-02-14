@@ -42,3 +42,43 @@ header h1 em {
   margin: 20px 0px 50px;
   line-height: 22px;
 }
+
+/* main */
+
+main {
+  margin: 20px 0px 0px;
+}
+
+.presentation {
+  background-color: #2afca6;
+  padding: 16px 30px;
+}
+
+.presentation h2 {
+  font-family: 'montserrat', sans-serif;
+  font-size: 16px;
+  font-weight: 800;
+}
+
+.presentation p {
+  margin: 20px 0px 31px;
+  line-height: 22px;
+}
+
+article {
+  background-color: white;
+  padding: 15px 30px;
+  margin-top: 20px;
+}
+
+article h1 {
+  font-family: 'montserrat', sans-serif;
+  font-size: 16px;
+  font-weight: 800;
+}
+
+.article-meta {
+  font-size: 12px;
+  margin-top: 20px;
+  color: #a0a0a0;
+}
