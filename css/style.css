@@ -20,7 +20,7 @@ body {
 header {
   border: 2px solid white;
   margin: 20px 0px;
-  background-image: url('../img/header-fond.jpg');
+  background-image: url('../img/code.jpg');
   padding: 0px 30px;
 }
 
@@ -153,4 +153,8 @@ footer p {
 
 .article-page {
   padding-top: 30px;
+}
+
+.article-button {
+  width: 130px;
 }
